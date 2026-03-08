@@ -1,0 +1,2 @@
+:HL["/MyJournal/_next/static/css/35da8d9bc7cfd976.css","style"]
+0:{"buildId":"goXxPbgQYYuYDrkHuTD73","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
