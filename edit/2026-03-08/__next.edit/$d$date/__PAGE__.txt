@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[4588,["972","static/chunks/app/edit/%5Bdate%5D/page-6aabb48e8967aa77.js"],"default"]
+3:I[484,[],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"goXxPbgQYYuYDrkHuTD73","rsc":["$","$1","c",{"children":[["$","$L2",null,{"date":"2026-03-08"}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null
